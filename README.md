@@ -34,7 +34,7 @@ Las siguientes herramientas fueron utilizadas para el desarrollo del proyecto:
 * Documentar el trabajo utilizando buenas prácticas en GitHub.
 
 
-## 👨‍💻 Autor
+## Autor
 
 Proyecto desarrollado por **José Pablo Ramírez Jiménez** como parte de actividades académicas relacionadas con modelado UML y análisis de sistemas.
 
