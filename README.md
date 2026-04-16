@@ -2,7 +2,7 @@
 Ejercicios de modelado de casos de uso TAREA
 
 
-## 📌 Descripción del Proyecto
+##  Descripción del Proyecto
 
 Este repositorio contiene el modelado de **diagramas de casos de uso UML** desarrollados como parte del estudio de **Programación Orientada a Objetos**.
 
